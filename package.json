@@ -1,0 +1,14 @@
+{
+  "name": "frontend-react-review-v1",
+  "version": "1.0.0",
+  "description": "init setup, manipulating/fetching dummy data or api data",
+  "main": "index.js",
+  "author": "AM",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.15.5",
+    "react": "^16.0.0",
+    "react-dom": "^16.0.0",
+    "webpack": "^3.6.0"
+  }
+}
