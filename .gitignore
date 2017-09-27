@@ -1,1 +1,4 @@
 node_modules
+client/dist/bundle.js
+client/.DS_Store
+yarn-error.log
